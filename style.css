@@ -1,2 +1,2 @@
 html, body { overflow: hidden; height: 100%;}
-body {margin: 0; padding: 0; background: #ffffff url(\images\ipad-606764_1920.jpg) repeat-x 50% 50% / contain;}
+body {margin: 0; padding: 0; background: url(\images\ipad-606764_1920.jpg) repeat-x 50% 50% / contain;}
