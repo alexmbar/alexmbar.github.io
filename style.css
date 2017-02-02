@@ -1,2 +1,10 @@
-html, body { overflow: hidden; height: 100%;}
-body {margin: 0; padding: 0; background: url(\images\ipad-606764_1920.jpg) repeat-x 50% 50% / contain;}
+html {
+  background-image: url("\images\ipad-606764_1920.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
